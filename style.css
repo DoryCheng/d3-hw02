@@ -1,0 +1,24 @@
+.TopBox {
+    background: lightgreen;
+    height: 50px;
+    width: 200px;
+    border: 3px solid green;
+    border-top-style: double;
+    border-bottom-style: dotted;
+}
+
+.BottomBox {
+    background: lightgreen;
+    width: 150px;
+    height: 200px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 3px solid green;
+    border-top: none;
+}
+
+.Mario {
+    border: none;
+    margin-left: 50px;
+    margin-right: 50px;
+}
